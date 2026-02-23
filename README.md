@@ -11,7 +11,8 @@ Flash firmware:
 
 
 ## Keymap
-![sofle2enc](https://github.com/user-attachments/assets/97862878-3886-4d13-90c4-bc0ee6767be2)
+
+<img width="956" height="1646" alt="sofle59keyright" src="https://github.com/user-attachments/assets/1e050937-8268-4dbf-8833-057e8c3ab175" />
 
 
 ## Bluetooth
